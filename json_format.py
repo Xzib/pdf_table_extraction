@@ -60,10 +60,16 @@ def pre_proc_list(val_list,form_type):
                     "bank account",
                     "documents attached prove",
                     ]
-                        
+    ''''
+
+
+        
+    '''
+
+
+
     i= 0
     j= 0
-    
     val_dic = []
     while i<len(val_list) and j<len(form_keys):
         
@@ -75,7 +81,14 @@ def pre_proc_list(val_list,form_type):
         word = re.compile(rf'\b{keyword[0]}\b|\b{keyword[1]}\b',flags=re.I|re.X)
         y = re.findall(word,search_words)        
         print(y)
-  
+        
+        '''
+            General Keys for some form items
+        '''
+        name_key = re.compile(rf'^[a-zA-Z(\s*)?]{1,20}$')
+        id_key = re.compile(rf'\bid(entity)?(-)?(\s)?(\w)|\bpan(\s)?(-)?(\w)|\bdriving(\s)?(-)?(\w)|(\d)')
+        address_email = re.compile(rf'')
+
 
 
         if (i == 0) and (len(y)>=2):

@@ -42,4 +42,64 @@
         "Relation": "",
         "AddressPersonSigning": ""
     }
+}{
+    "FORM_B": {
+        "FileName": "Form_B.pdf",
+        "FormType": "FORM B",
+        "CaseName": "",
+        "NameOperationalCreditor": "",
+        "IdentificationNumber": "1254879630",
+        "AddressEmail": "ABC, DFG, HJK  123, RTY  MM-123",
+        "TotalAmount": "100",
+        "DetailsDocuments": "DETAILS OF HOW AND WHEN DEBT  INCURRED",
+        "DetailsDispute": "",
+        "DetailsDebtIncured": "",
+        "DetailsMutual": "",
+        "DetailsRetention": "",
+        "DetailsBankAccount": "",
+        "ListDocumentsAttached": "",
+        "NameBlock": "",
+        "Relation": "",
+        "AddressPersonSigning": ""
+    }
+}{
+    "FORM_B": {
+        "FileName": "Form_B.pdf",
+        "FormType": "FORM B",
+        "CaseName": "",
+        "NameOperationalCreditor": "NAME OF OPERATIONAL CREDITOR",
+        "IdentificationNumber": "",
+        "AddressEmail": "",
+        "TotalAmount": "",
+        "DetailsDocuments": "",
+        "DetailsDispute": "",
+        "DetailsDebtIncured": "",
+        "DetailsMutual": "",
+        "DetailsRetention": "",
+        "DetailsBankAccount": "",
+        "ListDocumentsAttached": "",
+        "NameBlock": "",
+        "Relation": "",
+        "AddressPersonSigning": ""
+    }
+}{
+    "FORM_B": {
+        "FileName": "Form_B.pdf",
+        "FormType": "FORM B",
+        "CaseName": "",
+        "NameOperationalCreditor": "",
+        "IdentificationNumber": "1254879630",
+        "AddressEmail": "ABC, DFG, HJK  123, RTY  MM-123",
+        "TotalAmount": "100",
+        "DetailsDocuments": "DETAILS OF HOW AND WHEN DEBT  INCURRED",
+        "DetailsDispute": "",
+        "DetailsDebtIncured": "",
+        "DetailsMutual": "",
+        "DetailsRetention": "",
+        "DetailsBankAccount": "",
+        "ListDocumentsAttached": "",
+        "NameBlock": "",
+        "Relation": "",
+        "AddressPersonSigning": ""
+    }
 }
